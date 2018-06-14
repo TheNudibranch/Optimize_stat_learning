@@ -4,4 +4,4 @@ Statistical learning has taken off in the recent years, and people are quite hap
 
 #### Vanilla Gradient Descent Gif
 
-<div style="text-align:center"><img src="https://github.com/TheNudibranch/Optimize_stat_learning/blob/linear_regression/Linear_Regression.gif" width="40" height="40" />
+<div style="text-align:center"><img src="https://github.com/TheNudibranch/Optimize_stat_learning/blob/linear_regression/Linear_Regression.gif" width="800" height="800" />
