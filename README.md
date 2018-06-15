@@ -4,6 +4,6 @@ Statistical learning has taken off in the recent years, and people are quite hap
 
 #### Vanilla Gradient Descent Gif
 
-<div style="text-align:center"><img src="https://github.com/TheNudibranch/Optimize_stat_learning/blob/linear_regression/Linear_Regression.gif" width="400" height="400" />
+<div style="text-align:center"><img src="https://github.com/TheNudibranch/Optimize_stat_learning/blob/master/Linear_Regression/Linear_Regression.gif" width="400" height="400" />
   
 To see how to make this gif, and implement gradient descent for linear regression, check out the linear regression notebook.
